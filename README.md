@@ -29,6 +29,16 @@ Our approach can be summed up as follows:
 * Identifying potential solutions ( Algorithm selection)
 * Comparing results to identify optimal solutions
 
+## Architecture Diagram
+<p align="center">  
+  <img  align="center" src="https://github.com/Yusuf-Juzar-Soni/Disingenuous_Question_Detection/blob/master/frontend/src/components/Resources/img16.jpg">
+</p>
+
+## Data Flow Diagram 
+<p align="center">  
+  <img  align="center" src="https://github.com/Yusuf-Juzar-Soni/Disingenuous_Question_Detection/blob/master/frontend/src/components/Resources/img19.jpg">
+</p>
+
 ## Decisions:
 The following questions needed to be answered during the development process:
 1. Which algorithms were best suited to evaluate the problem statement?
@@ -70,6 +80,15 @@ the GUI/ Web Application respectively.
     `npm run build`
 
     `npm start`
+    
+ ## GUI of Application
+ 
+ <p align="center">  
+  <img  align="center" src="https://github.com/Yusuf-Juzar-Soni/Disingenuous_Question_Detection/blob/master/frontend/src/components/Resources/img20.jpg">
+</p>
+<p align="center">  
+  <img  align="center" src="https://github.com/Yusuf-Juzar-Soni/Disingenuous_Question_Detection/blob/master/frontend/src/components/Resources/img24.jpg">
+</p>
     
  ## Future Scope
  1. Many more approaches like SVM and KNN can be used to evaluate the
